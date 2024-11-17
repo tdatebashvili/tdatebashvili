@@ -7,4 +7,4 @@ I am passionate about new technologies. I love programming and messing around wi
 - 🔭 I’m currently a sysadmin on Netbynet 
 - 📚 I’m currently learning computer engineer at UOC.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tdatebashvili) [Gmail](mailto:tdatebachvili@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tdatebashvili)
